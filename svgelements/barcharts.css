@@ -1,0 +1,14 @@
+line{
+  stroke: grey;
+}
+rect{
+  fill: teal;
+}
+
+text{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  fill: teal
+}
+text.name{
+  fill: white;
+}

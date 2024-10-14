@@ -1,0 +1,14 @@
+text{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+polyline{
+  fill: none;
+  stroke-width: 1px;
+  stroke: black;
+}
+rect{
+  fill: blueviolet;
+}
+.rect1{
+  fill: red;
+}
