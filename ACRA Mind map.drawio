@@ -1,0 +1,90 @@
+<mxfile host="Electron" modified="2024-10-29T02:02:19.536Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="QsfsktihEObOo8P6hwOo" version="23.1.5" type="device">
+  <diagram name="Page-1" id="O0x8agLoFAO3WvgfJhYH">
+    <mxGraphModel dx="2116" dy="1778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GQ1I2X2mkbZeSAsyuRKi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQ1I2X2mkbZeSAsyuRKi-3" target="GQ1I2X2mkbZeSAsyuRKi-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ1I2X2mkbZeSAsyuRKi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQ1I2X2mkbZeSAsyuRKi-3" target="GQ1I2X2mkbZeSAsyuRKi-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="61" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQ1I2X2mkbZeSAsyuRKi-3" value="Customer data&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="0.5" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ1I2X2mkbZeSAsyuRKi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQ1I2X2mkbZeSAsyuRKi-5" target="GQ1I2X2mkbZeSAsyuRKi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ1I2X2mkbZeSAsyuRKi-5" value="Grouping Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ1I2X2mkbZeSAsyuRKi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GQ1I2X2mkbZeSAsyuRKi-7" target="GQ1I2X2mkbZeSAsyuRKi-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ1I2X2mkbZeSAsyuRKi-7" value="Neo 4j" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ1I2X2mkbZeSAsyuRKi-8" value="ACRA UI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ1I2X2mkbZeSAsyuRKi-9" value="UI log in" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4D4D4;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ1I2X2mkbZeSAsyuRKi-10" value="List of assigned group" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ1I2X2mkbZeSAsyuRKi-11" value="Selected Group" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ1I2X2mkbZeSAsyuRKi-12" value="See all cust in grp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="760" width="122.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ1I2X2mkbZeSAsyuRKi-13" value="Approve all" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="860" width="122.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ1I2X2mkbZeSAsyuRKi-14" value="Edit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="860" width="122.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ1I2X2mkbZeSAsyuRKi-15" value="Select multiple" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="960" width="122.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ1I2X2mkbZeSAsyuRKi-16" value="See table, graph, individual customer info as pop up/side screen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4D4D4;" vertex="1" parent="1">
+          <mxGeometry x="340" y="760" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ1I2X2mkbZeSAsyuRKi-17" value="Action" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1050" width="122.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ1I2X2mkbZeSAsyuRKi-18" value="Keep&lt;br&gt;Remove&lt;br&gt;Create new&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4D4D4;" vertex="1" parent="1">
+          <mxGeometry x="442.5" y="1030" width="207.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ1I2X2mkbZeSAsyuRKi-19" value="See table, graph" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4D4D4;" vertex="1" parent="1">
+          <mxGeometry x="426.25" y="960" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ1I2X2mkbZeSAsyuRKi-20" value="ML Model prediction accepted&lt;br&gt;&lt;br&gt;Store in Neo4j&amp;nbsp;&lt;br&gt;&lt;br&gt;No action on ML model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="860" width="220.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ1I2X2mkbZeSAsyuRKi-21" value="KEEP&lt;br&gt;ML Model prediction accepted&lt;br&gt;&lt;br&gt;Store in Neo4j&amp;nbsp;&lt;br&gt;&lt;br&gt;No action on ML model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="730" y="980" width="220.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ1I2X2mkbZeSAsyuRKi-22" value="REMOVE&lt;br&gt;ML Model prediction not accepted&lt;br&gt;&lt;br&gt;Store feedback in Neo4j&amp;nbsp;&lt;br&gt;&lt;br&gt;Send feedback to ML model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1080" width="240.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ1I2X2mkbZeSAsyuRKi-23" value="Create New GNN&lt;br&gt;Model prediction not accepted&lt;br&gt;&lt;br&gt;trigger Procedure to create newGNN?&lt;br&gt;Show new GNN in UI?&lt;br&gt;&lt;br&gt;Send feedback to ML model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1200" width="260.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ1I2X2mkbZeSAsyuRKi-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQ1I2X2mkbZeSAsyuRKi-25" target="GQ1I2X2mkbZeSAsyuRKi-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ1I2X2mkbZeSAsyuRKi-25" value="ML Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="40" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
